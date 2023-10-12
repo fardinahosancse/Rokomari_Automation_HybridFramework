@@ -1,0 +1,3 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: Hom_modal_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: Hom_search_input_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: Hom_search_submit_xpath

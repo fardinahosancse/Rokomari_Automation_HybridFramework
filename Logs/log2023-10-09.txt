@@ -1,0 +1,288 @@
+2023-10-09 11:09:29,712 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:09:31,804 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:11:19,904 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:11:20,976 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:14:17,229 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:14:18,124 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:14:18,181 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:14:18,230 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:15:00,419 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:15:01,578 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:15:01,640 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:15:01,694 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:21:05,424 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:21:06,504 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:21:06,564 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:21:06,614 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:25:08,521 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:25:09,627 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:25:09,686 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:25:09,735 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:28:57,651 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:28:59,372 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:28:59,426 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:28:59,474 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:32:32,510 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:32:33,480 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:32:33,537 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:32:33,589 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:35:48,122 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:35:49,183 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:35:49,239 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:35:49,293 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:35:54,869 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 11:35:54,911 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 11:41:58,060 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:41:59,274 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:41:59,329 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:41:59,381 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:42:05,664 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 11:42:10,713 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 11:49:44,482 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 11:49:45,261 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 11:49:45,317 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 11:49:45,366 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 11:49:51,857 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 11:49:56,907 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:03:37,329 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:03:38,108 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:03:38,171 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:03:38,223 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:03:43,884 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 12:03:48,936 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:04:23,990 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:04:24,998 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:04:25,055 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:04:25,108 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:04:31,698 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00D7A813+48355]
+	(No symbol) [0x00D0C4B1]
+	(No symbol) [0x00C15358]
+	(No symbol) [0x00BFD293]
+	(No symbol) [0x00C5E37B]
+	(No symbol) [0x00C6C473]
+	(No symbol) [0x00C5A536]
+	(No symbol) [0x00C382DC]
+	(No symbol) [0x00C393DD]
+	GetHandleVerifier [0x00FDAABD+2539405]
+	GetHandleVerifier [0x0101A78F+2800735]
+	GetHandleVerifier [0x0101456C+2775612]
+	GetHandleVerifier [0x00E051E0+616112]
+	(No symbol) [0x00D15F8C]
+	(No symbol) [0x00D12328]
+	(No symbol) [0x00D1240B]
+	(No symbol) [0x00D04FF7]
+	BaseThreadInitThunk [0x760B7BA9+25]
+	RtlInitializeExceptionChain [0x7737BC5B+107]
+	RtlClearBits [0x7737BBDF+191]
+
+2023-10-09 12:04:36,711 - BasePage.py:[32] - [ERROR] - Error clicking on element with XPath submit_login_xpath: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00D7A813+48355]
+	(No symbol) [0x00D0C4B1]
+	(No symbol) [0x00C15358]
+	(No symbol) [0x00BFD293]
+	(No symbol) [0x00C5E37B]
+	(No symbol) [0x00C6C473]
+	(No symbol) [0x00C5A536]
+	(No symbol) [0x00C382DC]
+	(No symbol) [0x00C393DD]
+	GetHandleVerifier [0x00FDAABD+2539405]
+	GetHandleVerifier [0x0101A78F+2800735]
+	GetHandleVerifier [0x0101456C+2775612]
+	GetHandleVerifier [0x00E051E0+616112]
+	(No symbol) [0x00D15F8C]
+	(No symbol) [0x00D12328]
+	(No symbol) [0x00D1240B]
+	(No symbol) [0x00D04FF7]
+	BaseThreadInitThunk [0x760B7BA9+25]
+	RtlInitializeExceptionChain [0x7737BC5B+107]
+	RtlClearBits [0x7737BBDF+191]
+
+2023-10-09 12:12:21,998 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:12:23,199 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:12:23,258 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:12:23,309 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:12:30,273 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 12:12:36,046 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:16:38,157 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:16:38,946 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:16:39,012 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:16:39,066 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:16:45,916 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 12:16:51,693 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:49:01,510 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:49:02,593 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:49:02,650 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:49:02,704 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:49:09,605 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 12:49:14,660 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:51:26,622 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:51:27,383 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:51:27,438 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:51:27,503 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:51:34,374 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 12:51:39,422 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:55:16,180 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:55:17,190 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:55:17,245 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:55:17,296 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:55:24,156 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 12:55:29,844 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 12:59:33,554 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 12:59:34,352 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 12:59:34,408 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 12:59:34,459 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 12:59:40,986 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 12:59:46,038 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:02:16,585 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:02:17,497 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:02:17,551 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:02:17,598 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:02:24,186 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 13:02:29,910 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:11:41,475 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:11:42,280 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:11:42,339 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:11:42,388 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:11:49,017 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 13:11:54,069 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:15:28,329 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:15:29,432 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:15:29,488 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:15:29,537 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:15:36,374 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 13:15:42,292 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:17:34,749 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:17:35,531 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:17:35,587 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:17:35,635 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:17:42,444 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 13:17:48,089 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:24:25,251 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:24:26,527 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:24:26,581 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:24:26,640 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:24:33,509 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 13:24:39,848 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:38:25,969 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:38:27,488 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:38:27,544 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:38:27,611 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:38:31,637 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 13:38:36,690 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:42:35,889 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:42:37,490 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:42:37,554 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:42:37,607 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:42:41,636 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: 'NoneType' object is not iterable
+2023-10-09 13:42:46,688 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:49:43,339 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:49:44,173 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:49:53,393 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:49:54,512 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:55:06,282 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:55:07,360 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:55:07,422 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:55:07,476 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:55:14,305 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 13:55:20,722 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 13:55:34,198 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 13:55:34,978 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 13:55:35,034 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 13:55:35,081 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 13:55:39,118 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 13:55:45,350 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 16:27:39,736 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:27:40,673 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:27:40,730 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:27:40,787 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:54:12,546 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:54:13,516 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:54:13,572 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:54:13,622 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:54:30,386 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: Message: 
+
+2023-10-09 16:54:42,110 - BasePage.py:[32] - [ERROR] - Error clicking on element with XPath submit_login_xpath: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00B2A813+48355]
+	(No symbol) [0x00ABC4B1]
+	(No symbol) [0x009C5358]
+	(No symbol) [0x009AD293]
+	(No symbol) [0x00A0E37B]
+	(No symbol) [0x00A1C473]
+	(No symbol) [0x00A0A536]
+	(No symbol) [0x009E82DC]
+	(No symbol) [0x009E93DD]
+	GetHandleVerifier [0x00D8AABD+2539405]
+	GetHandleVerifier [0x00DCA78F+2800735]
+	GetHandleVerifier [0x00DC456C+2775612]
+	GetHandleVerifier [0x00BB51E0+616112]
+	(No symbol) [0x00AC5F8C]
+	(No symbol) [0x00AC2328]
+	(No symbol) [0x00AC240B]
+	(No symbol) [0x00AB4FF7]
+	BaseThreadInitThunk [0x75747BA9+25]
+	RtlInitializeExceptionChain [0x77B0BC5B+107]
+	RtlClearBits [0x77B0BBDF+191]
+
+2023-10-09 16:54:52,093 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:54:52,822 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:54:52,887 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:54:52,940 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:58:03,874 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:58:04,738 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:58:04,792 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:58:04,850 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:58:13,473 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 16:58:20,184 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 16:58:33,108 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:58:34,421 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:58:34,484 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:58:34,538 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:58:38,580 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-09 16:58:44,463 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
+2023-10-09 16:58:57,903 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:58:58,754 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:58:58,803 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:58:58,858 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:59:13,227 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: Message: 
+
+2023-10-09 16:59:28,590 - BasePage.py:[32] - [ERROR] - Error clicking on element with XPath submit_login_xpath: Message: 
+
+2023-10-09 16:59:42,337 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 16:59:43,190 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-09 16:59:43,227 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-09 16:59:43,284 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-09 16:59:57,672 - BasePage.py:[51] - [ERROR] - Error Typing on element with XPath otp_input_xpath: Message: 
+
+2023-10-09 17:00:13,037 - BasePage.py:[32] - [ERROR] - Error clicking on element with XPath submit_login_xpath: Message: 
+
+2023-10-09 17:00:23,686 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 17:00:23,885 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: Hom_search_input_xpath
+2023-10-09 17:00:24,821 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_search_submit_xpath
+2023-10-09 17:01:40,880 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 17:01:41,041 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: Hom_search_input_xpath
+2023-10-09 17:01:43,193 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_search_submit_xpath
+2023-10-09 17:01:57,071 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 17:01:57,327 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: Hom_search_input_xpath
+2023-10-09 17:01:58,693 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_search_submit_xpath
+2023-10-09 17:02:12,815 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 17:02:13,034 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: Hom_search_input_xpath
+2023-10-09 17:02:14,079 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_search_submit_xpath
+2023-10-09 17:02:27,948 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 17:02:28,174 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: Hom_search_input_xpath
+2023-10-09 17:02:29,911 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_search_submit_xpath
+2023-10-09 17:02:44,832 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-09 17:02:45,034 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: Hom_search_input_xpath
+2023-10-09 17:02:45,971 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_search_submit_xpath

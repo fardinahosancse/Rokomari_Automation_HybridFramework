@@ -1,0 +1,1 @@
+{"name": "test_SignUp_with_invalid_otp[chrome]", "status": "passed", "parameters": [{"name": "get_browser", "value": "'chrome'"}], "start": 1696848891639, "stop": 1696848897140, "uuid": "9d3c555b-5892-49fa-9d94-7a6f09dcd795", "testCaseId": "4f772473654fef98a318695f996e8649", "fullName": "test_SSO.Test_SSO#test_SignUp_with_invalid_otp"}

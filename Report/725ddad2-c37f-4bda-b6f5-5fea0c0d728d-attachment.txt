@@ -1,0 +1,31 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: Hom_modal_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: sign_in_sign_up_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: email_phone_input_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: next_xpath
+[1m[31mERROR   [0m Pages.BasePage:BasePage.py:51 Error Typing on element with XPath otp_input_xpath: Message: 
+
+[1m[31mERROR   [0m Pages.BasePage:BasePage.py:32 Error clicking on element with XPath submit_login_xpath: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00B2A813+48355]
+	(No symbol) [0x00ABC4B1]
+	(No symbol) [0x009C5358]
+	(No symbol) [0x009AD293]
+	(No symbol) [0x00A0E37B]
+	(No symbol) [0x00A1C473]
+	(No symbol) [0x00A0A536]
+	(No symbol) [0x009E82DC]
+	(No symbol) [0x009E93DD]
+	GetHandleVerifier [0x00D8AABD+2539405]
+	GetHandleVerifier [0x00DCA78F+2800735]
+	GetHandleVerifier [0x00DC456C+2775612]
+	GetHandleVerifier [0x00BB51E0+616112]
+	(No symbol) [0x00AC5F8C]
+	(No symbol) [0x00AC2328]
+	(No symbol) [0x00AC240B]
+	(No symbol) [0x00AB4FF7]
+	BaseThreadInitThunk [0x75747BA9+25]
+	RtlInitializeExceptionChain [0x77B0BC5B+107]
+	RtlClearBits [0x77B0BBDF+191]

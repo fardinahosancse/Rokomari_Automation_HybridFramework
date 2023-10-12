@@ -1,0 +1,7 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: Hom_modal_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: sign_in_sign_up_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: email_phone_input_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicked on the element with XPath: next_xpath
+[31m[1mERROR   [0m Pages.BasePage:BasePage.py:51 Error Typing on element with XPath otp_input_xpath: Message: 
+
+[31m[1mERROR   [0m Pages.BasePage:BasePage.py:32 Error clicking on element with XPath submit_login_xpath: Message:

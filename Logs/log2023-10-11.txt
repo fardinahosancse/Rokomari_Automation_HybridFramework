@@ -1,0 +1,6 @@
+2023-10-11 22:03:25,098 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: Hom_modal_xpath
+2023-10-11 22:03:26,564 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: sign_in_sign_up_xpath
+2023-10-11 22:03:26,595 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: email_phone_input_xpath
+2023-10-11 22:03:26,825 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: next_xpath
+2023-10-11 22:03:35,246 - BasePage.py:[48] - [INFO] - Typed on the element with XPath: otp_input_xpath
+2023-10-11 22:03:41,178 - BasePage.py:[29] - [INFO] - Clicked on the element with XPath: submit_login_xpath
